@@ -11,3 +11,7 @@ end
 def output_array(array)
   puts array
 end
+
+def return_string_array(array)
+  return array
+end
