@@ -13,5 +13,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array.each {|key| 
+  array.each {|key| puts "#{key}"}
 end
