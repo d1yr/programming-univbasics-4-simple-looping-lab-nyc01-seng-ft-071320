@@ -10,4 +10,4 @@ end
   
 def output_array(array)
   puts array
-  def
+end
