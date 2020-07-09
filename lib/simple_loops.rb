@@ -13,5 +13,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  return array.each.to_s
+  return array.each to.s
 end
