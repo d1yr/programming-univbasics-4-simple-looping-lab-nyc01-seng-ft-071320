@@ -14,5 +14,6 @@ end
 
 def return_string_array(array)
   count = 0
-    array << array[count].to_s
+    array << array.push[count].to_s
+    
 end
