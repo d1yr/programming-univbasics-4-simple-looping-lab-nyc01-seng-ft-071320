@@ -13,12 +13,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  count = 0 
-  array = []
-  while count < array.length
-  do
-    array.push(array[count].to_s)
-    count += 1 
-  end
-  new_array
+    array << array[count].to_s
 end
